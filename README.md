@@ -24,6 +24,6 @@ Contributions are welcome! If you find issues or want to add new features, pleas
 3. Verify firewall or network settings.
 
 ## Contact Information
-For inquiries, collaboration opportunities, or feedback, please reach out to us via email: letsmail.sree@gmail.com
+For inquiries, collaboration opportunities, or feedback, please reach out to me via email: letsmail.sree@gmail.com
 
 
