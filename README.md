@@ -21,5 +21,5 @@ Contributions are welcome! If you find issues or want to add new features, pleas
 **Possible Solutions:**
 1. Check Internet Connection.
 2. Verify firewall or network settings.
-3. Ensure browser compatibility (preferably use the latest version of Chrome).
+3. Ensure browser compatibility (preferably use the latest version of Chrome,firefox or safari).
 
