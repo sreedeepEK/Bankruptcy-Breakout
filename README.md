@@ -24,5 +24,5 @@ Contributions are welcome! If you find issues or want to add new features, pleas
 3. Ensure browser compatibility ( preferably use the latest version of Chrome, firefox or Safari ).
 
 ## Contact Information
-[LinkedIn](www.linkedin.com/in/sreedeepek) | Email: letsmail.sree@gmail.com
+Email: letsmail.sree@gmail.com
 
