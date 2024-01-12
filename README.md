@@ -22,6 +22,4 @@ Contributions are welcome! If you find issues or want to add new features, pleas
 1. Check Internet Connection.
 2. Verify firewall or network settings.
 3. Ensure browser compatibility (preferably use the latest version of Chrome).
-   
-## Contact Information
-For questions or feedback, feel free to [contact me.](mailto:letsmail.sree@gmail.com) 
+
