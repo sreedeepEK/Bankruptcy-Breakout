@@ -19,9 +19,9 @@ Contributions are welcome! If you find issues or want to add new features, pleas
 **Symptoms:** Users are unable to access the web app, encountering errors or connection issues.
 
 **Possible Solutions:**
-1. **Check Internet Connection:** Ensure that the user has a stable internet connection.
-2. **Firewall or Network Restrictions:** Check if the user's network or firewall settings are preventing access to the app.
-3. **Browser Compatibility:** Verify that the web app supports the user's browser. Recommend using the latest version of Chrome.
-
+1. Check Internet Connection.
+2. Verify firewall or network settings.
+3. Ensure browser compatibility (preferably use the latest version of Chrome).
+4. 
 ## Contact Information
 For questions or feedback, contact letsmail.sree@gmail.com.
