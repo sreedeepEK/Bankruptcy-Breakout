@@ -4,12 +4,6 @@ Welcome to the Bankruptcy Prediction Web App! This is a straightforward web app 
 To run the website, click this link:
 https://bankruptcy-webapp.streamlit.app/
 
-## Model Information
-The prediction model is powered by Support Vector Machine trained on the Bankruptcy dataset, achieving around 98% during training.
-
-## Data Sources
-The website uses the Bankruptcy dataset from Kaggle for predictions.
-
 ## Contributing
 Contributions are welcome! If you find issues or want to add new features, please submit a pull request.
 
