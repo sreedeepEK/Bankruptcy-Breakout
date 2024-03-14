@@ -1,4 +1,4 @@
-# Bankruptcy-webapp
+# Bankruptcy Prevention Project
 Welcome to the Bankruptcy Prediction Web App! This is a straightforward web app created with Streamlit for assessing bankruptcy risk. Users can input financial information.
 
 To run the website, click this link:
